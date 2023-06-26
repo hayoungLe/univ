@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #FCF7ED;
+}
+
+div {
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+div>img {
+  max-width: 100%;
+  object-fit: cover;
+}
